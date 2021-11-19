@@ -26,8 +26,9 @@ BibTeX:
       year={2020}
     }
 
-## You can send your questions or suggestions to: 
-raducu.ionescu@gmail.com
+## Questions or feedback
+
+Please mail us at: raducu[dot]ionescu[at]gmail(dot)com
 
 ### Last Update:
 Novermber 19th, 2021
