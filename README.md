@@ -9,11 +9,11 @@ In order to classify linearly non-separable data, neurons are typically organize
 This repo provides the official implementation of "Non-linear neurons with human-like apical dendrite activations". The provided code can be used to reproduce resulys on Fashion-MNIST and MOROCO.
 
 ## Prerequisites
-numpy==1.15.4
-opencv_python==4.1.1.26
-scikit_image==0.15.0
-tensorflow_gpu==1.12.0 
-scikit_learn==0.22.1
+- numpy==1.15.4
+- opencv_python==4.1.1.26
+- scikit_image==0.15.0
+- tensorflow_gpu==1.12.0 
+- scikit_learn==0.22.1
 
 ## Citation
 
