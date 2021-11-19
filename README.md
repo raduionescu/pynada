@@ -4,6 +4,10 @@
 
 In order to classify linearly non-separable data, neurons are typically organized into multi-layer neural networks that are equipped with at least one hidden layer. Inspired by some recent discoveries in neuroscience, we propose a new neuron model along with a novel activation function enabling the learning of non-linear decision boundaries using a single neuron. We show that a standard neuron followed by the novel apical dendrite activation (ADA) can learn the XOR logical function with 100\% accuracy. Furthermore, we conduct experiments on five benchmark data sets from computer vision, signal processing  and natural language processing, i.e. MOROCO, UTKFace, CREMA-D, Fashion-MNIST, and Tiny ImageNet, showing that ADA and the leaky ADA functions provide superior results to Rectified Linear Units (ReLU), leaky ReLU, RBF and Swish, for various neural network architectures, e.g. one-hidden-layer or two-hidden-layer multi-layer perceptrons (MLPs) and convolutional neural networks (CNNs) such as LeNet, VGG, ResNet and Character-level CNN. We obtain further performance improvements when we change the standard model of the neuron with our pyramidal neuron with apical dendrite activations (PyNADA).
 
+## License
+
+This code is released under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license.
+
 ## Code
 
 This repo provides the official implementation of "Non-linear neurons with human-like apical dendrite activations". The provided code can be used to reproduce resulys on Fashion-MNIST and MOROCO.
