@@ -19,12 +19,12 @@ This repo provides the official implementation of "Non-linear neurons with human
 
 BibTeX:
 
-@article{georgescu2020non,
-  title={Non-linear neurons with human-like apical dendrite activations},
-  author={Georgescu, Mariana-Iuliana and Ionescu, Radu Tudor and Ristea, Nicolae-Catalin and Sebe, Nicu},
-  journal={arXiv preprint arXiv:2003.03229},
-  year={2020}
-}
+    @article{georgescu2020non,
+    title={Non-linear neurons with human-like apical dendrite activations},
+    author={Georgescu, Mariana-Iuliana and Ionescu, Radu Tudor and Ristea, Nicolae-Catalin and Sebe, Nicu},
+    journal={arXiv preprint arXiv:2003.03229},
+    year={2020}
+    }
 
 ## You can send your questions or suggestions to: 
 raducu.ionescu@gmail.com
